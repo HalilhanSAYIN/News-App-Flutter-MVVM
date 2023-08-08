@@ -4,10 +4,10 @@
 
 
   
-  <img src="https://github.com/HalilhanSAYIN/napp/blob/main/lib/screenshots/Screenshot_1691504358.png" alt="alt text" width="360" height="640">
-  <img src="https://github.com/HalilhanSAYIN/napp/blob/main/lib/screenshots/Screenshot_1691504362.png" alt="alt text" width="360" height="640">
-  <img src="https://github.com/HalilhanSAYIN/napp/blob/main/lib/screenshots/Screenshot_1691504379.png" alt="alt text" width="360" height="640">
-  <img src="https://github.com/HalilhanSAYIN/napp/blob/main/lib/screenshots/Screenshot_1691504388.png" alt="alt text" width="360" height="640">
+  <img src="https://github.com/HalilhanSAYIN/News-App-Flutter-MVVM/blob/main/screenshots/Screenshot_1691504358.png" alt="alt text" width="360" height="640">
+  <img src="https://github.com/HalilhanSAYIN/News-App-Flutter-MVVM/blob/main/screenshots/Screenshot_1691504362.png" alt="alt text" width="360" height="640">
+  <img src="https://github.com/HalilhanSAYIN/News-App-Flutter-MVVM/blob/main/screenshots/Screenshot_1691504379.png" alt="alt text" width="360" height="640">
+  <img src="https://github.com/HalilhanSAYIN/News-App-Flutter-MVVM/blob/main/screenshots/Screenshot_1691504388.png" alt="alt text" width="360" height="640">
   
   
 
